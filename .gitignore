@@ -30,3 +30,9 @@ MemoryCaptures/
 
 # Crash Reports
 sysinfo.txtS
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Logs/
